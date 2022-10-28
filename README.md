@@ -57,7 +57,3 @@ Provide links/instructions so that the customer can easily find out where to dow
 * [SwiftUI - Build Beautiful, Robust, Apps [Video]](https://www.packtpub.com/mobile/swiftui-build-beautiful-robust-apps-video)
 
 * [Swift Weather (Meteorology) Application with REST API [Video]](https://www.packtpub.com/mobile/swift-weather-meteorology-application-with-rest-api-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781838988159">https://packt.link/free-ebook/9781838988159 </a> </p>
